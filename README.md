@@ -16,11 +16,11 @@
 
 <p align="left">
   
-- 🔭 My recent Project <a href="https://github.com/anandaparna126/Cervical-Cancer-Detetction">Cervical Cancer Detection</a>
+- 🔭 My recent Project <a href="https://github.com/anandaparna126/thyroid_disease_prediction">Thyroid Disease Detection</a>
 
 - 🌱 I’m currently learning **TensorFlow & CNN**
 
-- 👯 I’m currently working on **Thyroid Disease Detection**
+- 👯 I’m currently working on **Generative AI**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/anandaparna126">GitHub Aparna</a>
 
