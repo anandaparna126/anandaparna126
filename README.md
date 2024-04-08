@@ -28,8 +28,6 @@
 
 - 📫 Reach me here: **anandaparna1203@gmail.com**
 
-- ⚡ Fun fact: **I like Music 🎶**
-
 </p>
 
 <h3 align="left">Programming Languages:</h3>
