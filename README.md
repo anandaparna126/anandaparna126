@@ -16,7 +16,7 @@
 
 <p align="left">
   
-- 🔭 My recent Project <a href="https://github.com/anandaparna126/thyroid_disease_prediction">Thyroid Disease Detection</a>
+- 🔭 My recent Project <a href="https://github.com/anandaparna126/Image_Extractor">Image Data Extraction using Gen AI</a>
 
 - 🌱 I’m currently learning **TensorFlow & CNN**
 
