@@ -1,4 +1,3 @@
-[![MasterHead](https://i0.wp.com/paymentearth.com/wp-content/uploads/2020/07/big-data-analytics-banner-image-131934029945360761.jpg?ssl=1)](https://anandaparna126.io)
 <h1 align="center">Hello 👋, I'm Aparna Anand</h1>
 
 <h3 align="center">I have a strong passion for using data for making data driven business decisions🤖</h3>
