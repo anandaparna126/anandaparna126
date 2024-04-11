@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Aparna Anand</h1>
+<h1 align="center">नमस्ते 🙏, I'm Aparna Anand</h1>
 
 <h3 align="center">I have a strong passion for using data for making data driven business decisions🤖</h3>
 <h3 align="center">Passionate for Data Science and Artificial Intelligence🐱‍👤</h3>
@@ -17,7 +17,7 @@
   
 - 🔭 My recent Project <a href="https://github.com/anandaparna126/Image_Extractor">Image Data Extraction using Gen AI</a>
 
-- 🌱 I’m currently learning **TensorFlow & CNN**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m currently working on **Generative AI**
 
