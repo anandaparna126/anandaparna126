@@ -69,9 +69,7 @@
 <img src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843" alt="Power BI" width="40" height="40"/>
 </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="_static/logo_light.svg" alt="Matplotlib" width="40" height="40"/>
-
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="_static/logo_light.svg" alt="Matplotlib" width="40" height="40"/>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png" alt="Matplotlib" width="40" height="40"/>
 </a>
 </p>
 
