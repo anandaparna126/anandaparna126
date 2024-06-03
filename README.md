@@ -21,7 +21,7 @@
 
 - 👯 I’m currently working on **Generative AI**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/anandaparna126">GitHub Aparna</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/anandaparna126?tab=repositories">GitHub Aparna</a>
 
 - 💬 Ask me about **Data Analysis, Data Visualization, Machine Learning, Statistics, SQL**
 
