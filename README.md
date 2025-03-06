@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते 🙏, I'm Aparna Anand</h1>
+<h1 align="center">नमस्ते 🙏, I'm अपर्णा आनन्द</h1>
 
 <h3 align="center">I have a strong passion for using data for making data driven business decisions🤖</h3>
 <h3 align="center">Passionate for Data Science and Artificial Intelligence🐱‍👤</h3>
