@@ -2,7 +2,7 @@
 
 <h3 align="center">I have a strong passion for using data for making data driven business decisions🤖</h3>
 <h3 align="center">Passionate for Data Science and Artificial Intelligence🐱‍👤</h3>
-<h3 align="center">Persuing Master's Degree in Artificial Intelligence from National InstituTe of Technology Bhopal</h3>
+<h3 align="center">Persuing Master's Degree in Artificial Intelligence from National Institute of Technology Bhopal</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
